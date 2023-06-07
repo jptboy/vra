@@ -6,5 +6,5 @@ resources:
   Cloud_Machine_1:
     type: Cloud.Machine
     properties:
-      image: ubuntu
+      image: ubuntu1
       flavor: small2
